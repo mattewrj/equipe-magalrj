@@ -1,0 +1,94 @@
+{
+  "photos": [
+    {
+      "id": "equipe-01",
+      "src": "/images/equipe-galeria/foto-01.webp",
+      "thumbnail": "/images/equipe-galeria/foto-01-thumb.webp",
+      "width": 721,
+      "height": 557,
+      "alt": "Dois homens mostram pequenos cartões, com uma bandeira e um carro ao fundo.",
+      "position": "50% 40%"
+    },
+    {
+      "id": "equipe-02",
+      "src": "/images/equipe-galeria/foto-02.webp",
+      "thumbnail": "/images/equipe-galeria/foto-02-thumb.webp",
+      "width": 840,
+      "height": 782,
+      "alt": "Três homens posam em frente a um comércio, ao lado de uma bandeira.",
+      "position": "50% 38%"
+    },
+    {
+      "id": "equipe-03",
+      "src": "/images/equipe-galeria/foto-03.webp",
+      "thumbnail": "/images/equipe-galeria/foto-03-thumb.webp",
+      "width": 705,
+      "height": 430,
+      "alt": "Duas pessoas seguram bandeiras na calçada, com carros estacionados e fachadas ao fundo.",
+      "position": "50% 50%"
+    },
+    {
+      "id": "equipe-04",
+      "src": "/images/equipe-galeria/foto-04.webp",
+      "thumbnail": "/images/equipe-galeria/foto-04-thumb.webp",
+      "width": 838,
+      "height": 540,
+      "alt": "Seis homens posam lado a lado em um espaço interno; um deles veste quimono azul.",
+      "position": "50% 38%"
+    },
+    {
+      "id": "equipe-05",
+      "src": "/images/equipe-galeria/foto-05.webp",
+      "thumbnail": "/images/equipe-galeria/foto-05-thumb.webp",
+      "width": 817,
+      "height": 827,
+      "alt": "Pessoas com bandeiras posam na calçada; parte do rosto de quem faz a selfie aparece em primeiro plano.",
+      "position": "50% 38%"
+    },
+    {
+      "id": "equipe-06",
+      "src": "/images/equipe-galeria/foto-06.webp",
+      "thumbnail": "/images/equipe-galeria/foto-06-thumb.webp",
+      "width": 847,
+      "height": 771,
+      "alt": "Quatro pessoas se reúnem ao redor de uma mesa ao ar livre, com bandeiras enroladas e cartões.",
+      "position": "50% 42%"
+    },
+    {
+      "id": "equipe-07",
+      "src": "/images/equipe-galeria/foto-07.webp",
+      "thumbnail": "/images/equipe-galeria/foto-07-thumb.webp",
+      "width": 900,
+      "height": 1600,
+      "alt": "Um homem e uma mulher seguram bandeiras em frente à entrada de um prédio.",
+      "position": "50% 34%"
+    },
+    {
+      "id": "equipe-08",
+      "src": "/images/equipe-galeria/foto-08.webp",
+      "thumbnail": "/images/equipe-galeria/foto-08-thumb.webp",
+      "width": 900,
+      "height": 1600,
+      "alt": "Três pessoas posam diante de uma fachada azul, mostrando cartões e uma bandeira.",
+      "position": "50% 36%"
+    },
+    {
+      "id": "equipe-09",
+      "src": "/images/equipe-galeria/foto-09.webp",
+      "thumbnail": "/images/equipe-galeria/foto-09-thumb.webp",
+      "width": 960,
+      "height": 1280,
+      "alt": "Selfie em grupo na rua, com uma bandeira e um carro ao fundo.",
+      "position": "50% 43%"
+    },
+    {
+      "id": "equipe-10",
+      "src": "/images/equipe-galeria/foto-10.webp",
+      "thumbnail": "/images/equipe-galeria/foto-10-thumb.webp",
+      "width": 899,
+      "height": 1599,
+      "alt": "Um homem de casaco escuro está em frente a um grupo de pessoas de quimono, junto a um tatame.",
+      "position": "50% 35%"
+    }
+  ]
+}

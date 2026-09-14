@@ -1,0 +1,7 @@
+{
+  "name": "Limite de Bairros — Instituto Pereira Passos / Prefeitura da Cidade do Rio de Janeiro",
+  "source": "https://pgeo3.rio.rj.gov.br/arcgis/rest/services/Cartografia/Limites_administrativos/FeatureServer/4",
+  "downloaded": "2026-09-14T17:52:43.580Z",
+  "crs": "EPSG:4326",
+  "note": "Geometrias oficiais. Extrusão no mapa é destaque visual, não representa elevação do terreno."
+}
